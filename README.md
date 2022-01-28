@@ -2,7 +2,11 @@
 
 Small project created in an Actor-Component SDL-engine made in class, in order to better understand how it works
 
-==============================================================
+Controls ===================================================
+
+You can move using the ZQSD keys
+
+Files to look at =============================================
 
 Modifications made in:
   - Game.cpp (in "Game specifics" section)
@@ -12,8 +16,12 @@ Modifications made in:
   - Tile class
   - PlayableTile class
   - Level class
- 
-==============================================================
+
+Current state ================================================
+
+
+
+Post mortem ================================================
 
 - (+) understood the engine, and the principle behind the Actor-Component architecture
 - (+) understood how I should approach programming classes 
