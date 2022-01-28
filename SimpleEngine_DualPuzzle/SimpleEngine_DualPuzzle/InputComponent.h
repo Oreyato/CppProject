@@ -27,6 +27,8 @@ private:
     float moveX;
     float moveY;
 
+    // Was added in an attempt to create a keyDown-like behaviour,
+    // but I didn't manage to do it, nor in the .cpp nor in the Game.cpp
     bool isKeyLocked;
 };
 

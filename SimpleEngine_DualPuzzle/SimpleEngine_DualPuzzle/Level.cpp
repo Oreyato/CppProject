@@ -127,6 +127,7 @@ void Level::setStartingPos()
 	yPos = (screenHeight - baseWidthHeight * scale * row) / 2.0f;
 
 	// Scale up / -down the tiles so that the board fits better in the screen
+	// Changing row and columns values will get a better behaviour than what I tried last week
 	setScale(xPos, yPos);
 
 	// Update the positions with the new scale

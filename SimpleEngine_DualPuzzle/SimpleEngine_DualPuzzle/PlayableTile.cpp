@@ -11,6 +11,14 @@ PlayableTile::PlayableTile() :
 
 void PlayableTile::updateActor(float dt)
 {
+	// ==============================================================
+	// Currently not working, returns a "vector subscript out of range"
+	// 
+	// Couldn't quite get the clues from the debug tool, but I had things 
+	// like missing files (Log.h -when I was using it in the switch, 
+	// or even Vector2.h for some reason)
+	// ==============================================================
+	
 	//// Get the tiles in level from Game
 	//auto tiles = getGame().getLevel()->getTiles();
 	//// Browse tiles
@@ -46,6 +54,5 @@ void PlayableTile::updateActor(float dt)
 	//		}
 	//	}
 	//}
-
 
 }

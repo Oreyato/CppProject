@@ -101,6 +101,14 @@ void Game::close()
 
 void Game::processInput()
 {
+	// ==============================================================
+	// I didn't manage to handle the SDL_KEYDOWN that works under the SDL_PollEvent,
+	// and not under the keyboardState
+	// 
+	// As a consequence, the PlayableTiles are very difficult to move precisely because
+	// they move accordingly to a keyboardPressed-like event, and not a keyDown
+	// ==============================================================
+
 	// SDL Event
 	SDL_Event event;
 	while (SDL_PollEvent(&event))
