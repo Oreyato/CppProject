@@ -40,6 +40,6 @@ Post mortem
      - reading the whole document again, taking as much time as needed to understand everything while having the "big picture" in mind, create new documents to assimilate the difficult stuff 
  
 - (-) even if it was necessary, I lost almost one week going through the engine in details to understand it  
-- (-) ran through multiple difficulties I had trouble to overcome (regarding symbols or things like "vector subscript out of range")
+- (-) ran through multiple difficulties I had trouble to overcome (regarding symbols or things like "vector subscript out of range" for example)
       huge thanks to Ma6icm4n for his precious help
 - (-) not quite satisfied with the delivery itself (seems small)
