@@ -1,0 +1,10 @@
+﻿  Level.cpp
+G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(130,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(130,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(145,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(148,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayableTile.cpp
+  Tile.cpp
+G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Tile.cpp(16,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SimpleEngine_DualPuzzle.vcxproj -> G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\x64\Debug\SimpleEngine_DualPuzzle.exe

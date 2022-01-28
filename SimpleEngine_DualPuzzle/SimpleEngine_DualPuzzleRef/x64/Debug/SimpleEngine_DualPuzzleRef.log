@@ -1,0 +1,27 @@
+﻿G:\C++\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SimpleEngine_DualPuzzle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Actor.cpp
+  AnimSpriteComponent.cpp
+  Assets.cpp
+  Astroid.cpp
+  BackgroundSpriteComponent.cpp
+  CircleCollisionComponent.cpp
+  Component.cpp
+  Game.cpp
+  InputComponent.cpp
+  Laser.cpp
+  Log.cpp
+  Main.cpp
+  MoveComponent.cpp
+  Random.cpp
+  Rectangle.cpp
+  Renderer.cpp
+  Ship.cpp
+  SpriteComponent.cpp
+  Texture.cpp
+  Timer.cpp
+  Generating Code...
+  Compiling...
+  Vector2.cpp
+  Window.cpp
+  Generating Code...
+  SimpleEngine_DualPuzzleRef.vcxproj -> G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\x64\Debug\SimpleEngine_DualPuzzleRef.exe
