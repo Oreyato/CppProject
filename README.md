@@ -19,7 +19,7 @@ Modifications made in:
 - (+) understood how I should approach programming classes 
      - quickly following the document while trying to understand as much things as possible in a short amount of time
      - finishing the project
-     - reading the whole document again, taking as much time as needed to understand everything while having the "big picture" in mind
+     - reading the whole document again, taking as much time as needed to understand everything while having the "big picture" in mind, create new documents to assimilate the difficult stuff 
  
 - (-) even if it was necessary, I lost almost one week going through the engine in details to understand it  
 - (-) ran through multiple difficulties I had trouble to overcome (regarding symbols or things like "vector subscript out of range")
