@@ -2,11 +2,13 @@
 
 Small project created in an Actor-Component SDL-engine made in class, in order to better understand how it works
 
-Controls ===================================================
+Controls
+=
 
 You can move using the ZQSD keys
 
-Files to look at =============================================
+Files to look at
+=
 
 Modifications made in:
   - Game.cpp (in "Game specifics" section)
@@ -17,11 +19,19 @@ Modifications made in:
   - PlayableTile class
   - Level class
 
-Current state ================================================
 
+Current state
+=
 
+Launchable
+Level creation fully operationnal 
+Playable tiles read inputs
 
-Post mortem ================================================
+Movements don't work as expected
+Collisions logic remove (created code errors)
+
+Post mortem
+=
 
 - (+) understood the engine, and the principle behind the Actor-Component architecture
 - (+) understood how I should approach programming classes 
