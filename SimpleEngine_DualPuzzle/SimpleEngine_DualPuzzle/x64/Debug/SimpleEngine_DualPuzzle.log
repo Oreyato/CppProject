@@ -1,6 +1,1 @@
-﻿  Level.cpp
-G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(131,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(131,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(146,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\SimpleEngine_DualPuzzle\Level.cpp(149,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  SimpleEngine_DualPuzzle.vcxproj -> G:\Cours\Progra\C++\003\C++Project_DualPuzzle\SimpleEngine_DualPuzzle\x64\Debug\SimpleEngine_DualPuzzle.exe
+﻿  SimpleEngine_DualPuzzle.vcxproj -> E:\Game3\CERCEAU_Paul\C++\Patterns\SimpleEngine_DualPuzzle\x64\Debug\SimpleEngine_DualPuzzle.exe
