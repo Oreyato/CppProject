@@ -2,9 +2,15 @@
 #include "SharedState.h"
 #include "UniqueState.h"
 
+// Because the Flyweight object can be used in different contexts, 
+// we have to make sure that its state can't be modified
+//      initialize its state just once
+//      shouldn't expose setters or ways to modify it
+
 class Flyweight
 {
 private:
+    // Stores the INTRINSIC state ONLY, it just accepts the rest 
     SharedState* shared_state_;
 
 public:

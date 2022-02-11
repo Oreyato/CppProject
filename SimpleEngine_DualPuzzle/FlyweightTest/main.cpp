@@ -1,5 +1,10 @@
 #include <iostream>
 
+//v ==============================================================
+// Little dissection of the C++ code example from refactoring.guru
+// in order to better understand how the Flyweight pattern works
+//^ ==============================================================
+
 /**
  * Flyweight Design Pattern
  *
@@ -13,7 +18,7 @@
 
 /**
  * The Flyweight stores a common portion of the state (also called intrinsic
- * state) that belongs to multiple real business entities. The Flyweight accepts
+ * state) that belongs to multiple real business entities. The Flyweight ACCEPTS
  * the rest of the state (extrinsic state, unique for each entity) via its
  * method parameters.
  */

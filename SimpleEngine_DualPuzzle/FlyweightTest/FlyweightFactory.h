@@ -1,6 +1,8 @@
 #pragma once
 #include <unordered_map>
 
+
+
 class FlyweightFactory
 {
     /**
@@ -27,6 +29,7 @@ public:
 
     /**
      * Returns an existing Flyweight with a given state or creates a new one.
+    // if it doesn't already exists
      */
     Flyweight GetFlyweight(const SharedState& shared_state)
     {
