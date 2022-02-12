@@ -28,7 +28,8 @@ Level creation fully operationnal
 Playable tiles read inputs
 
 Movements don't work as expected
-Collisions logic remove (created code errors)
+
+Collisions logic removed (created code errors)
 
 Post mortem
 =
