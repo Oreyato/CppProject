@@ -52,11 +52,14 @@ void Game::load()
 	Assets::loadTexture(renderer, "..\\..\\Resources\\t_PlayerB3.png", "BPlayer3");
 	//^ Load textures ================================================
 	//v Level creation ===============================================
-	level = new Level(window.getWidth(), window.getHeight());
-	level->createLevel(1);
+	//level = new Level(window.getWidth(), window.getHeight());
+	//level->createLevel(1);
 	//^ Level creation ===============================================
 
-	//v TESTS ========================================================
+	//v DESIGN PATTERNS TESTS ========================================
+	Assets::loadTexture(renderer, "..\\..\\Resources\\t_TreeA.png", "TreeA");
+	Assets::loadTexture(renderer, "..\\..\\Resources\\t_TreeB.png", "TreeB");
+	Assets::loadTexture(renderer, "..\\..\\Resources\\t_TreeC.png", "TreeC");
 
 
 

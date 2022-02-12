@@ -109,6 +109,12 @@
     <ClInclude Include="PlayableTile.h">
       <Filter>GameSpecificContent</Filter>
     </ClInclude>
+    <ClInclude Include="Tree.h">
+      <Filter>GameSpecificContent\FlyweightTests</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelFW.h">
+      <Filter>GameSpecificContent\FlyweightTests</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Component">
@@ -122,6 +128,9 @@
     </Filter>
     <Filter Include="GameSpecificContent">
       <UniqueIdentifier>{d7e7effa-1c4e-4316-9b61-6c0b835bdbb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSpecificContent\FlyweightTests">
+      <UniqueIdentifier>{3ae6d972-3dc4-41ff-9073-ada76302aec6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
