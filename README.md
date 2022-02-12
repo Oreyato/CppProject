@@ -6,10 +6,10 @@ Branch Additions
 =
 
 Design patterns exploration:
-	- Flyweight:
-		- Own project + implementation test regarding the tiles
-	- Spatial Partition:
-		- Didn't really work while knowing it was a design pattern, this was just a common way to implement tiles in a grid
+- Flyweight:
+	- Own project + implementation test regarding the tiles
+- Spatial Partition:
+	- Didn't really work while knowing it was a design pattern, this was just a common way to implement tiles in a grid
 
 Controls
 =
