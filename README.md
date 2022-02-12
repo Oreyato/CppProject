@@ -10,7 +10,7 @@ Design patterns exploration:
 	- Its own project + implementation test regarding the tiles
 		- Didn't worked because of the way the Tiles were created (as new) and then changed
 - Spatial Partition:
-	- Didn't really work while knowing it was a design pattern, this was just a common way to implement tiles in a grid [here in the Level class]
+	- Didn't really work on it while knowing it was a design pattern, this was just a common way to implement tiles in a grid [here in the Level class]
 
 Controls
 =
