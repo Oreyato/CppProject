@@ -3,6 +3,7 @@
 
 // = extrinsic state
 // MUTABLE
+
 struct UniqueState
 {
     // unique things

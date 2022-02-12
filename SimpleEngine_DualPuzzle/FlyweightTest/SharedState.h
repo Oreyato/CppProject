@@ -5,6 +5,7 @@
 // ^ felt inversed, because it is "Shared" BUT
 //      intrinsinc because it lives inside the object, it can not be altered "from the outside"
 //      IMMUTABLE, repeated
+//      context-free
 
 struct SharedState
 {
