@@ -1,7 +1,10 @@
 #pragma once
+#include "Actor.h"
 #include "SpriteComponent.h"
+#include "Assets.h"
 
-class Tree {
+class Tree :
+    public Actor {
 public:
     enum TreeType {
         TREE_A,
@@ -9,16 +12,16 @@ public:
         TREE_C
     };
 
-    Tree(SpriteComponent* spriteP) : 
-        sprite(spriteP),
-        baseWidthHeight(32)
-    {}
+    Tree();
+    Tree(std::string textureP);
 
     const SpriteComponent* getSpriteComponent() const { return sprite; }
+    int getBaseWidthHeight() { return baseWidthHeight; }
 
 private:
     // TreeType type;
     SpriteComponent* sprite;
+    std::string texture;
     int baseWidthHeight;
 
     // not the scale because we used to change it in the Level creation

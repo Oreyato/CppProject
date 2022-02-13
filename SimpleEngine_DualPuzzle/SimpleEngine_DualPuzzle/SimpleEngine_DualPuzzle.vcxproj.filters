@@ -53,6 +53,12 @@
     <ClCompile Include="PlayableTile.cpp">
       <Filter>GameSpecificContent</Filter>
     </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>GameSpecificContent\FlyweightTests</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelFW.cpp">
+      <Filter>GameSpecificContent\FlyweightTests</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Actor.h" />

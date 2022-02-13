@@ -9,6 +9,8 @@ Design patterns exploration:
 - Flyweight:
 	- Its own project + implementation test regarding the tiles
 		- Didn't worked because of the way the Tiles were created (as new) and then changed
+		- Tried to work with simpler classes (LevelFW & Tree) but ran into an issue regarding the "delete_scalar.cpp" when trying to close the game
+		- We can also only see 3 different trees, but not their 
 - Spatial Partition:
 	- Didn't really work on it while knowing it was a design pattern, this was just a common way to implement tiles in a grid [here in the Level class]
 

@@ -2,6 +2,7 @@
 #include <vector>
 #include "Renderer.h"
 #include "Level.h"
+#include "LevelFW.h"
 using std::vector;
 
 /// CTRL+D -> dupliquer une ligne
@@ -60,6 +61,7 @@ public:
 
 private:
 	Level* level;
+	LevelFW* levelFW;
 	//^ Game specifics ===============================================
 };
 

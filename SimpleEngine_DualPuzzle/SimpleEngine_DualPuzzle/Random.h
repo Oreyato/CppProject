@@ -14,6 +14,9 @@ public:
 	// Get a float between 0.0f and 1.0f
 	static float getFloat();
 
+	// Get an int from the specified range
+	static int getIntRange(int min, int max);
+
 	// Get a float from the specified range
 	static float getFloatRange(float min, float max);
 

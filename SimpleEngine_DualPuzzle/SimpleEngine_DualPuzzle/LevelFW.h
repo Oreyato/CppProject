@@ -3,9 +3,17 @@
 
 class LevelFW {
 public:
-	Tree* trees[8][8];
+	LevelFW();
+	void generateLevelFW();
+	void setPos();
 
 private:
-	const int WIDTH;
-	const int HEIGHT;
+	int WIDTH;
+	int HEIGHT;
+
+	std::vector<std::vector<Tree*>> trees;
+
+	Tree treeA;
+	Tree treeB;
+	Tree treeC;
 };

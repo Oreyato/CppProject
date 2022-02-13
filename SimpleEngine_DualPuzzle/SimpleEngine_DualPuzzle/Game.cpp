@@ -4,7 +4,6 @@
 #include "Log.h"
 #include "Assets.h"
 #include "BackgroundSpriteComponent.h"
-
 #include "PlayableTile.h"
 
 #include <iostream>
@@ -61,8 +60,8 @@ void Game::load()
 	Assets::loadTexture(renderer, "..\\..\\Resources\\t_TreeB.png", "TreeB");
 	Assets::loadTexture(renderer, "..\\..\\Resources\\t_TreeC.png", "TreeC");
 
-
-
+	levelFW = new LevelFW();
+	levelFW->generateLevelFW();
 	//^ ==============================================================
 }
 

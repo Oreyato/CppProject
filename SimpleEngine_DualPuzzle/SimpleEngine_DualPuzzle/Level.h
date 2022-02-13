@@ -1,7 +1,6 @@
 #pragma once
 #include "Actor.h"
 #include "Log.h"
-#include <vector>
 
 class Level :
 	public Actor
